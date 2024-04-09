@@ -1,0 +1,10 @@
+# 忽略所有 .log .xml .iml 文件
+*.log
+*.xml
+*.iml
+
+# 忽略文件夹
+node_modules
+
+# 忽略打包文件
+packages/vue/dist
